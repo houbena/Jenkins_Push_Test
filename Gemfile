@@ -8,3 +8,4 @@ gemspec
 
 
 gem 'test'
+gem 'calabash-cucumber'
